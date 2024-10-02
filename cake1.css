@@ -54,7 +54,6 @@ body {
 
 .text-head {
     float: right;
-    margin: none;
 }
 .text-head ul {
     text-align: center;
@@ -66,8 +65,7 @@ body {
 
 .text-head li {
     display: inline-block;
-    padding: none;
-    margin: none;
+  
 }
 
 .text-head li a,
